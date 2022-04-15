@@ -1,0 +1,13 @@
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Application.deps.json
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Application.dll
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Application.pdb
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Domain.dll
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Domain.pdb
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.AssemblyInfo.cs
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.csproj.CopyComplete
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.dll
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.pdb
