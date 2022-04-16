@@ -5,7 +5,7 @@ using User.Domain.Entities;
 
 namespace User.Application.Interfaces.Repositories
 {
-    internal interface IUserProfileRepository : IRepository<UserProfile> 
+    public interface IUserProfileRepository : IRepository<UserProfile> 
     {
     }
 }

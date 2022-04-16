@@ -6113,7 +6113,8 @@
       "Microsoft.EntityFrameworkCore >= 5.0.16",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.16",
-      "User.Application >= 1.0.0"
+      "User.Application >= 1.0.0",
+      "User.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6150,6 +6151,9 @@
           "projectReferences": {
             "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Application\\User.Application.csproj": {
               "projectPath": "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Application\\User.Application.csproj"
+            },
+            "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Domain\\User.Domain.csproj": {
+              "projectPath": "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Domain\\User.Domain.csproj"
             }
           }
         }

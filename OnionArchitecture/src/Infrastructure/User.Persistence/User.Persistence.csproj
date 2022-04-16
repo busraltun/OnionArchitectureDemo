@@ -1,13 +1,8 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="UnitOfWorks\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
@@ -21,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\User.Application\User.Application.csproj" />
+    <ProjectReference Include="..\..\Core\User.Domain\User.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -160,6 +160,9 @@
             "projectReferences": {
               "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Application\\User.Application.csproj": {
                 "projectPath": "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Application\\User.Application.csproj"
+              },
+              "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Domain\\User.Domain.csproj": {
+                "projectPath": "C:\\Users\\busra\\source\\repos\\OnionArchitectureDemo\\OnionArchitecture\\src\\Core\\User.Domain\\User.Domain.csproj"
               }
             }
           }

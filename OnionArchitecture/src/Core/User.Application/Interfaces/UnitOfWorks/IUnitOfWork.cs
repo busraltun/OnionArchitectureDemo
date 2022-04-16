@@ -7,9 +7,12 @@ using User.Application.Interfaces.Repositories;
 
 namespace User.Application.Interfaces.UnitOfWorks
 {
-    public interface IUnitOfWork : IAsyncDisposable
+    public interface IUnitOfWork 
     {
-        Task<IDbContextTransaction> BeginTransactionAsync();
-        public IUsersRepository UsersRepository { get; }
+        //Task<IDbContextTransaction> BeginTransactionAsync();
+        //public IUsersRepository UsersRepository { get; }
+
+        Task CommitAsync();
+        void Commit();
     }
 }
