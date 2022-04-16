@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore": "5.0.16",
           "Microsoft.EntityFrameworkCore.Design": "5.0.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.16",
-          "User.Application": "1.0.0"
+          "User.Application": "1.0.0",
+          "User.Domain": "1.0.0"
         },
         "runtime": {
           "User.Persistence.dll": {}

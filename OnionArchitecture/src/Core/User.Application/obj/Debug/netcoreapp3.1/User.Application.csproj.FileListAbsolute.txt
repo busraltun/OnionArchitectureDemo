@@ -11,3 +11,6 @@ C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\Use
 C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.csproj.CopyComplete
 C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.dll
 C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.pdb
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Application.runtimeconfig.json
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\bin\Debug\netcoreapp3.1\User.Application.runtimeconfig.dev.json
+C:\Users\busra\source\repos\OnionArchitectureDemo\OnionArchitecture\src\Core\User.Application\obj\Debug\netcoreapp3.1\User.Application.genruntimeconfig.cache
